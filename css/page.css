@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+#pageheader{width: 100%; 
+	min-height: 350px; 
+	background:url("../images/pageheader.png"); 
+	background-repeat:no-repeat; 
+	background-size: cover; 
+	background-position: center top
+}
